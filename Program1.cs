@@ -14,12 +14,6 @@ class Program
         double prosjek = (a + b + c + d) / 4.0;
 
         
-        Console.WriteLine("Zadanih vrijednosti:");
-        Console.WriteLine($"a = {a}");
-        Console.WriteLine($"b = {b}");
-        Console.WriteLine($"c = {c}");
-        Console.WriteLine($"d = {d}");
-        Console.WriteLine("-------------------------");
         Console.WriteLine($"Prosječna vrijednost iznosi: {prosjek}");
     }
 }
